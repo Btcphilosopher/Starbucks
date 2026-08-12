@@ -1,0 +1,6 @@
+{
+  "name": "Starbucks",
+  "description": "Starbucks Customer Super App with mobile ordering, Starbucks Rewards, digital card, custom drinks, stores, delivery, gift cards, and AI coffee assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
